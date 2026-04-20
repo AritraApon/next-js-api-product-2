@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Headphones",
+            "price": 3500,
+            "category": "Electronics",
+            "image": "https://i.ibb.co/1.jpg",
+            "description": "High quality wireless headphones with noise cancellation."
+        },
+        {
+            "id": 2,
+            "name": "Smart Watch",
+            "price": 3200,
+            "category": "Electronics",
+            "image": "https://i.ibb.co/2.jpg",
+            "description": "Track your fitness and notifications easily."
+        },
+        {
+            "id": 3,
+            "name": "Gaming Mouse",
+            "price": 1200,
+            "category": "Accessories",
+            "image": "https://i.ibb.co/3.jpg",
+            "description": "Ergonomic design with RGB lighting."
+        },
+        {
+            "id": 4,
+            "name": "Backpack",
+            "price": 1800,
+            "category": "Fashion",
+            "image": "https://i.ibb.co/4.jpg",
+            "description": "Durable backpack for everyday use."
+        },
+        {
+            "id": 5,
+            "name": "Bluetooth Speaker",
+            "price": 2100,
+            "category": "Electronics",
+            "image": "https://i.ibb.co/5.jpg",
+            "description": "Portable speaker with deep bass sound."
+        }
+    ]
+}
