@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Fix navbar bug",
+      "description": "Navbar responsive issue is breaking in mobile view. Need to fix alignment and dropdown behavior.",
+      "status": "todo",
+      "priority": "high",
+      "tags": [
+        "bug",
+        "frontend"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Design landing page",
+      "description": "Create a modern landing page UI with hero section, features, and CTA buttons.",
+      "status": "in-progress",
+      "priority": "medium",
+      "tags": [
+        "ui",
+        "design"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Setup JSON Server API",
+      "description": "Create fake REST API using JSON Server for testing CRUD operations in frontend.",
+      "status": "done",
+      "priority": "high",
+      "tags": [
+        "backend",
+        "api"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Add authentication system",
+      "description": "Implement login and signup system with JWT authentication and protected routes.",
+      "status": "todo",
+      "priority": "high",
+      "tags": [
+        "auth",
+        "security"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Optimize website speed",
+      "description": "Improve performance by reducing bundle size, optimizing images, and lazy loading components.",
+      "status": "in-progress",
+      "priority": "medium",
+      "tags": [
+        "performance",
+        "seo"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Write documentation",
+      "description": "Prepare full project documentation including setup guide, API usage, and features explanation.",
+      "status": "done",
+      "priority": "low",
+      "tags": [
+        "docs",
+        "writing"
+      ]
+    },
+    {
+      "name": "Aritro Mazumdar",
+      "description": "hi i am aritro mazumdar apon",
+      "status": "todo",
+      "priority": "high",
+      "id": 7
+    },
+    {
+      "name": "Aritro Mazumdar",
+      "description": "hi i am aritro mazumdar apon",
+      "status": "in-progress",
+      "priority": "high",
+      "id": 8
+    },
+    {
+      "name": "Gold",
+      "description": "hi i am aritro mazumdar apon",
+      "status": "done",
+      "priority": "medium",
+      "id": 9
+    },
+    {
+      "name": "",
+      "description": "",
+      "status": "",
+      "priority": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "description": "",
+      "status": "",
+      "priority": "",
+      "id": 11
+    },
+    {
+      "name": "Gold",
+      "description": "asdfadf",
+      "status": "todo",
+      "priority": "high",
+      "id": 12
+    }
+  ]
+}
